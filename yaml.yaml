@@ -1,0 +1,50 @@
+university: ITMO
+group: P3118
+id: 501445
+name: Роберт
+surname: Хайдаров
+schedule:
+  -
+    week_day: Среда
+    date: "2025-11-19"
+    lessons:
+      -
+        number: 1
+        time_start: "11:30"
+        time_end: "13:00"
+        subject: Информатика
+        lesson_type: Лекция
+        teacher: Балакшин Павел Валерьевич
+        classroom: Актовый зал (1216/0 (усл))
+        building: "ул.Ломоносова, д.9, лит. М"
+      -
+        number: 2
+        time_start: "13:30"
+        time_end: "15:00"
+        subject: Основы профессиональной деятельности
+        lesson_type: Лекция
+        teacher: Клименков Сергей Викторович
+        classroom: Актовый зал (1216/0 (усл))
+        building: "ул.Ломоносова, д.9, лит. М"
+  -
+    week_day: Пятница
+    date: "2025-11-21"
+    lessons:
+      -
+        number: 1
+        time_start: "11:30"
+        time_end: "13:00"
+        subject: English A2 / Английский язык A2
+        lesson_type: Практика
+        teacher: Малышева Алёна Андреевна
+        classroom: Ауд. 2412
+        building: "Кронверкский пр., д.49, лит.А"
+      -
+        number: 2
+        time_start: "13:30"
+        time_end: "15:00"
+        subject: English A2 / Английский язык A2
+        lesson_type: Практика
+        teacher: Малышева Алёна Андреевна
+        classroom: Ауд. 2412
+        building: "Кронверкский пр., д.49, лит.А"

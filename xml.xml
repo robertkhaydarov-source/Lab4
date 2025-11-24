@@ -1,0 +1,61 @@
+<root type='object'>
+  <university type='string'>ITMO</university>
+  <group type='string'>P3118</group>
+  <id type='string'>501445</id>
+  <name type='string'>Роберт</name>
+  <surname type='string'>Хайдаров</surname>
+  <schedule type='array'>
+    <item_0 type='object'>
+      <week_day type='string'>Среда</week_day>
+      <date type='string'>2025-11-19</date>
+      <lessons type='array'>
+        <item_0 type='object'>
+          <number type='number'>1</number>
+          <time_start type='string'>11:30</time_start>
+          <time_end type='string'>13:00</time_end>
+          <subject type='string'>Информатика</subject>
+          <lesson_type type='string'>Лекция</lesson_type>
+          <teacher type='string'>Балакшин Павел Валерьевич</teacher>
+          <classroom type='string'>Актовый зал (1216/0 (усл))</classroom>
+          <building type='string'>ул.Ломоносова, д.9, лит. М</building>
+        </item_0>
+        <item_1 type='object'>
+          <number type='number'>2</number>
+          <time_start type='string'>13:30</time_start>
+          <time_end type='string'>15:00</time_end>
+          <subject type='string'>Основы профессиональной деятельности</subject>
+          <lesson_type type='string'>Лекция</lesson_type>
+          <teacher type='string'>Клименков Сергей Викторович</teacher>
+          <classroom type='string'>Актовый зал (1216/0 (усл))</classroom>
+          <building type='string'>ул.Ломоносова, д.9, лит. М</building>
+        </item_1>
+      </lessons>
+    </item_0>
+    <item_1 type='object'>
+      <week_day type='string'>Пятница</week_day>
+      <date type='string'>2025-11-21</date>
+      <lessons type='array'>
+        <item_0 type='object'>
+          <number type='number'>1</number>
+          <time_start type='string'>11:30</time_start>
+          <time_end type='string'>13:00</time_end>
+          <subject type='string'>English A2 / Английский язык A2</subject>
+          <lesson_type type='string'>Практика</lesson_type>
+          <teacher type='string'>Малышева Алёна Андреевна</teacher>
+          <classroom type='string'>Ауд. 2412</classroom>
+          <building type='string'>Кронверкский пр., д.49, лит.А</building>
+        </item_0>
+        <item_1 type='object'>
+          <number type='number'>2</number>
+          <time_start type='string'>13:30</time_start>
+          <time_end type='string'>15:00</time_end>
+          <subject type='string'>English A2 / Английский язык A2</subject>
+          <lesson_type type='string'>Практика</lesson_type>
+          <teacher type='string'>Малышева Алёна Андреевна</teacher>
+          <classroom type='string'>Ауд. 2412</classroom>
+          <building type='string'>Кронверкский пр., д.49, лит.А</building>
+        </item_1>
+      </lessons>
+    </item_1>
+  </schedule>
+</root>
